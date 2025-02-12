@@ -1,4 +1,4 @@
-# Notes
+# notes
 
 ## Links
 - [D2L](https://learn.georgebrown.ca)
